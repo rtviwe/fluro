@@ -1,3 +1,6 @@
+# 1.6.4
+- Rename Router to FluroRouter
+
 # 1.6.3
 - Remove upper bounds on Flutter SDK checks because Flutter releases are a ridiculous mess
 
